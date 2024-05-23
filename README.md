@@ -39,6 +39,8 @@ Navigate to the project directory:
 cd github-profile-search
 
 __Screenshots:__
+![](Images/Homepage.png)
+![](Images/Nextpage.png)
 
 
 __Contributing__
